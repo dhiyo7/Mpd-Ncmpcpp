@@ -1,0 +1,116 @@
+Jul 15 12:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 12:13 : update: added /Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3
+Jul 15 12:13 : update: added /Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp4
+Jul 15 12:13 : avahi: Service 'Music Player' successfully established.
+Jul 15 12:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 12:14 : avahi: Service 'Music Player' successfully established.
+Jul 15 12:17 : client: [0] opened from 127.0.0.1:47872
+Jul 15 12:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 12:18 : player: played "Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3"
+Jul 15 12:18 : client: [0] closed
+Jul 15 12:29 : client: [1] opened from 127.0.0.1:49542
+Jul 15 12:31 : client: [1] closed
+Jul 15 12:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 12:39 : avahi: Service 'Music Player' successfully established.
+Jul 15 12:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 12:47 : avahi: Service 'Music Player' successfully established.
+Jul 15 20:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 20:27 : avahi: Service 'Music Player' successfully established.
+Jul 15 20:29 : client: [0] opened from 127.0.0.1:55488
+Jul 15 20:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 20:42 : player: played "Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3"
+Jul 15 20:43 : player: played "Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3"
+Jul 15 20:43 : client: [0] closed
+Jul 15 21:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 21:01 : avahi: Service 'Music Player' successfully established.
+Jul 15 21:01 : client: [0] opened from 127.0.0.1:36208
+Jul 15 21:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 21:03 : player: played "Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3"
+Jul 15 21:04 : client: [0] closed
+Jul 15 21:10 : client: [1] opened from 127.0.0.1:38736
+Jul 15 21:10 : client: [1] closed
+Jul 16 08:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 16 08:42 : avahi: Service 'Music Player' successfully established.
+Jul 16 09:51 : client: [0] opened from 127.0.0.1:58262
+Jul 16 09:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 16 15:11 : player: played "Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3"
+Jul 16 15:11 : client: [0] closed
+Jul 16 17:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 16 17:00 : avahi: Service 'Music Player' successfully established.
+Jul 16 17:01 : client: [0] opened from 127.0.0.1:39872
+Jul 16 17:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 16 18:57 : player: played "Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3"
+Jul 16 19:38 : player: played "Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3"
+Jul 16 19:38 : client: [0] closed
+Jul 17 08:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 08:40 : avahi: Service 'Music Player' successfully established.
+Jul 17 10:36 : client: [0] opened from 127.0.0.1:45934
+Jul 17 10:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 10:39 : player: played "Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3"
+Jul 17 10:39 : client: [0] closed
+Jul 17 10:40 : client: [1] opened from 127.0.0.1:46196
+Jul 17 10:44 : player: played "Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3"
+Jul 17 10:44 : client: [1] closed
+Jul 17 10:44 : client: [2] opened from 127.0.0.1:46372
+Jul 17 10:45 : update: added /I Found A Girl–The Vamps Lyrics.mp3
+Jul 17 10:45 : update: added /Zedd, Maren Morris, Grey - The Middle (Official Music Video).mp3
+Jul 17 10:45 : update: updating /Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3
+Jul 17 10:45 : update: added /Maroon 5 - Wait.mp3
+Jul 17 10:45 : update: added /Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3
+Jul 17 10:45 : update: added /The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3
+Jul 17 10:47 : player: played "Zedd, Maren Morris, Grey - The Middle (Official Music Video).mp3"
+Jul 17 10:53 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 10:57 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 11:00 : player: played "I Found A Girl–The Vamps Lyrics.mp3"
+Jul 17 11:03 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 11:07 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 11:11 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 11:14 : player: played "I Found A Girl–The Vamps Lyrics.mp3"
+Jul 17 11:17 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 11:21 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 11:25 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 11:28 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 11:32 : player: played "I Found A Girl–The Vamps Lyrics.mp3"
+Jul 17 11:36 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 11:39 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 11:43 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 11:46 : player: played "I Found A Girl–The Vamps Lyrics.mp3"
+Jul 17 11:49 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 11:53 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 11:57 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 12:00 : player: played "I Found A Girl–The Vamps Lyrics.mp3"
+Jul 17 13:12 : client: [2] closed
+Jul 17 13:12 : client: [3] opened from 127.0.0.1:53366
+Jul 17 13:12 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 13:16 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 13:19 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 13:23 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 13:26 : player: played "I Found A Girl–The Vamps Lyrics.mp3"
+Jul 17 13:30 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 13:33 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 13:34 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 13:34 : client: [3] closed
+Jul 17 13:36 : client: [4] opened from 127.0.0.1:55488
+Jul 17 13:37 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 13:37 : client: [4] closed
+Jul 17 13:37 : client: [5] opened from 127.0.0.1:55550
+Jul 17 13:38 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 13:38 : client: [5] closed
+Jul 17 13:38 : client: [6] opened from 127.0.0.1:55598
+Jul 17 13:41 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 13:46 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 13:48 : player: played "I Found A Girl–The Vamps Lyrics.mp3"
+Jul 17 13:48 : client: [6] closed
+Jul 17 13:50 : client: [7] opened from 127.0.0.1:56796
+Jul 17 14:02 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 14:05 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 14:05 : client: [7] closed
+Jul 17 14:05 : client: [8] opened from 127.0.0.1:57658
+Jul 17 14:09 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 14:13 : player: played "I Found A Girl–The Vamps Lyrics.mp3"
+Jul 17 14:17 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 14:20 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 14:24 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 14:27 : player: played "I Found A Girl–The Vamps Lyrics.mp3"
+Jul 17 14:30 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 14:34 : player: played "Maroon 5 - Wait.mp3"
